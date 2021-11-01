@@ -33,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_toRightOf="@+id/ll_tap"
         android:gravity="center"
-        android:textColor="#ffffff"
+        android:textColor="#FFFFFF"
         android:textSize="11.5sp"
         android:visibility="gone"
         mv:mv_backgroundColor="#FD481F"
