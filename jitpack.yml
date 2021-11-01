@@ -1,0 +1,7 @@
+jdk:
+  - openjdk11
+
+
+install:
+  - ./gradlew :TabLayout:build :TabLayout:publishToMavenLocal
+  - find . -name "*.aar"
